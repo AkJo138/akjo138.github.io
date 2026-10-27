@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="420" viewBox="0 0 480 420" fill="none">
+  <title>Hardware meets software</title>
+  <desc>A microchip connected to branching circuit paths.</desc>
+  <g stroke="#c9d5c0" stroke-width="1">
+    <path d="M60 90H420M60 150H420M60 210H420M60 270H420M60 330H420M120 50V370M180 50V370M240 50V370M300 50V370M360 50V370"/>
+  </g>
+  <circle cx="240" cy="210" r="142" stroke="#c0cfb5"/>
+  <g stroke="#43745b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M190 160V110L150 70H100M220 160V75M260 160V105L300 65H350M290 160V125H390M190 260V310L150 350H100M220 260V345M260 260V315L300 355H350M290 260V295H390M160 180H120L90 150H60M160 210H65M160 240H120L90 270H60M320 180H355L380 155H420M320 210H410M320 240H355L380 265H420"/>
+  </g>
+  <g fill="#e7eddf" stroke="#43745b" stroke-width="3">
+    <circle cx="100" cy="70" r="6"/><circle cx="220" cy="75" r="6"/><circle cx="350" cy="65" r="6"/><circle cx="390" cy="125" r="6"/>
+    <circle cx="100" cy="350" r="6"/><circle cx="220" cy="345" r="6"/><circle cx="350" cy="355" r="6"/><circle cx="390" cy="295" r="6"/>
+    <circle cx="60" cy="150" r="6"/><circle cx="65" cy="210" r="6"/><circle cx="60" cy="270" r="6"/><circle cx="420" cy="155" r="6"/><circle cx="410" cy="210" r="6"/><circle cx="420" cy="265" r="6"/>
+  </g>
+  <rect x="158" y="158" width="164" height="104" rx="14" fill="#24664e"/>
+  <rect x="172" y="172" width="136" height="76" rx="7" stroke="#9eb59a"/>
+  <g stroke="#e7eddf" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M219 195L204 210L219 225M261 195L276 210L261 225M246 192L234 228"/>
+  </g>
+</svg>
